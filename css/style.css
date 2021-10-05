@@ -5,15 +5,15 @@
         --main-background-color:#F2FFFE;
         --header-background-color: rgba(138, 73, 0, 0.664);
         --titulo-background-color:rgba(170, 168, 168, 0.349);
-        --color-fuente-blanco:aliceblue;
+        --color-fuente-blanco:rgb(255, 255, 255);
         --background-seccion2:#F29E00;
         --background-color-menu2:rgba(97, 36, 0, 0.534);
         --background-color-encabezado:rgba(116, 58, 44, 0.4);
         --background-color-listado:rgb(100, 40, 0,1);
         --background-color-main:#754c01b4;
         --background-color-container:#faa9581f;
-        --background-color-box:#FAA958;
-        --background-color-circulo:rgba(255, 208, 0, 0.692);
+        --background-color-box:#F2FFFE;
+        --background-color-circulo:rgba(10, 10, 10, 0.692);
         --color-fuente-texto:#000;
         --background-color-container2:#663b028e;
         --color-fuente-form:aliceblue;
@@ -175,7 +175,10 @@
                                         
 
                                 }
-
+                         /* select{
+                                 flex:1 1 auto;
+                                 display: flex;
+                         }        */
                         .listado{
                                 flex: 1 1 auto;
                                 display: flex;   
