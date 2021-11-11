@@ -1,0 +1,23 @@
+
+* {
+    text-decoration: none;
+    color:cornsilk;
+    
+}
+
+ body{background:url(../img/wallpaperbetter.com_2560x1440-44.jpg); 
+        background-size: cover;}
+ 
+ main {
+         background:url(../img/WallPapers_Texturas01\ \(1\).jpg); 
+         background-size: cover;}
+.container .header{
+        background-color: rgba(3, 3, 104, 0.719);
+}
+
+.article1 p,.article2 p,.article3 p,.article4 p,.article5 p{ text-align: justify;}
+
+
+
+.arrepentimiento1 a {
+                        text-decoration: none;} 
